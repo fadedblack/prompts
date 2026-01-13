@@ -15,7 +15,7 @@ To use this skill effectively, the agent requires:
 
 ## How to process updates
 1. **Perform Gap Analysis:**
-    - Compare the **Current File** against the **New Context**.
+    - Compare the **Current File** against the **New Context**.710480
     - Identify which specific sections (Context, Tech Stack, Prerequisites, Configuration, etc.) are affected by the change.
     - *Example:* If the user says "We added Redis," identify that "Tech Stack" and "Prerequisites" need updating.
 
